@@ -14059,7 +14059,8 @@
         "twitter": "https://twitter.com/polyplaycoin",
         "discord": "https://discord.gg/TAgndUz2Fc"
       },
-      {
+    },
+    {
       "chainId": 101,
       "address": "uNrix3Q5g51MCEUrYBUEBDdQ96RQDQspQJJnnQ4T3Vc",
       "symbol": "SBNK",
